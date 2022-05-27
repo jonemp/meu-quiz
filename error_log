@@ -1,0 +1,20 @@
+[31-Jul-2019 13:42:35 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:42:35 UTC] PHP Warning:  simplexml_load_file(http://www.devmedia.com.br/xml/devmedia_full.xml): failed to open stream: no suitable wrapper could be found in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:42:35 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.devmedia.com.br/xml/devmedia_full.xml&quot; in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:42:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jonatan/public_html/quiz/lerxml.php on line 17
+[31-Jul-2019 13:45:18 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:45:18 UTC] PHP Warning:  simplexml_load_file(http://www.devmedia.com.br/xml/devmedia_full.xml): failed to open stream: no suitable wrapper could be found in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:45:18 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.devmedia.com.br/xml/devmedia_full.xml&quot; in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:45:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jonatan/public_html/quiz/lerxml.php on line 17
+[31-Jul-2019 13:46:37 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:37 UTC] PHP Warning:  simplexml_load_file(http://www.devmedia.com.br/xml/devmedia_full.xml): failed to open stream: no suitable wrapper could be found in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:37 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.devmedia.com.br/xml/devmedia_full.xml&quot; in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jonatan/public_html/quiz/lerxml.php on line 17
+[31-Jul-2019 13:46:42 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:42 UTC] PHP Warning:  simplexml_load_file(http://www.devmedia.com.br/xml/devmedia_full.xml): failed to open stream: no suitable wrapper could be found in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:42 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.devmedia.com.br/xml/devmedia_full.xml&quot; in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:46:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jonatan/public_html/quiz/lerxml.php on line 17
+[31-Jul-2019 13:47:19 UTC] PHP Warning:  simplexml_load_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:47:19 UTC] PHP Warning:  simplexml_load_file(http://www.devmedia.com.br/xml/devmedia_full.xml): failed to open stream: no suitable wrapper could be found in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:47:19 UTC] PHP Warning:  simplexml_load_file(): I/O warning : failed to load external entity &quot;http://www.devmedia.com.br/xml/devmedia_full.xml&quot; in /home/jonatan/public_html/quiz/lerxml.php on line 14
+[31-Jul-2019 13:47:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/jonatan/public_html/quiz/lerxml.php on line 17
